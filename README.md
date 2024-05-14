@@ -1,2 +1,2 @@
 # about-me
-my personal web desain
+My Personal Web Desain
